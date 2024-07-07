@@ -1,0 +1,16 @@
+[
+    {
+        "Partition": "littlefs_sample_AtoC",
+        "File":[
+            {"FName":"InputData_a.txt", "Fid":"100", "Directory":""}
+        ]
+    },
+    {
+        "Partition": "littlefs_sample_DtoF",
+        "File":[
+            {"FName":"InputData_d.txt", "Fid":"200", "Directory":""}, 
+            {"FName":"InputData_e.txt", "Fid":"201", "Directory":"e_data"},
+            {"FName":"InputData_f.txt", "Fid":"202", "Directory":""}
+        ]
+    }
+]
